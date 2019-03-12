@@ -79,7 +79,4 @@ public class Player extends SnakeBlock {
 
 	}
 }
-// Fix: snake needs to run even without pressing the key
-// Fix: playerblock and foodblock not always exactly in the same width and
-// height. Foodblock is not int property.
-// Continue: player grows if collide with food.
+
