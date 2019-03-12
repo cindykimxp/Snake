@@ -17,5 +17,3 @@ public class Border extends GameObject {
 
     }
 }
-
-//Fix: There's no collider for the border. The player should be able to slightly touch the collider.
