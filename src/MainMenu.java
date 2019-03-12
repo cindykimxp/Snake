@@ -40,4 +40,3 @@ public class MainMenu extends GameLevel{
     }
 
 }
-//Fix: simply not working.
